@@ -2,7 +2,7 @@
 #include <fstream>
 #include <iostream>
 #include <vector>
-#include "parser.hpp"
+#include "Parser.hpp"
 #include "structs.h"
 
 Parser::Parser(std::string filename)
