@@ -4,7 +4,7 @@
 #include <string>
 #include <filesystem>
 #include "structs.h"
-#include "parser.hpp"
+#include "Parser.hpp"
 #include "JUCEConverter.hpp"
 
 class GUILang

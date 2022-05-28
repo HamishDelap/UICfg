@@ -5,7 +5,7 @@
 #include <filesystem>
 #include <JuceHeader.h>
 #include "structs.h"
-#include "parser.hpp"
+#include "Parser.hpp"
 
 class JUCEConverter
 {
