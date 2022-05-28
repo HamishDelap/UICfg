@@ -36,3 +36,5 @@ compile
 debug
 
 
+.vscode/launch.json
+GUILang.code-workspace
